@@ -44,5 +44,8 @@
   },
   "optionalDependencies": {
     "microtime": "^2.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
