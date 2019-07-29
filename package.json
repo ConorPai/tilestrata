@@ -1,6 +1,6 @@
 {
   "name": "@conorpai/tilestrata",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "description": "A pluggable map tile server.",
   "license": "Apache-2.0",
   "main": "index.js",
